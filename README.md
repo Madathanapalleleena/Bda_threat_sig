@@ -1,4 +1,4 @@
-# ThreatSig — Real-Time Threat Intelligence Dashboard
+# ThreatSig a Real-Time Threat Intelligence Dashboard
 
 A Big Data Analytics (BDA) project that detects, classifies, and visualizes cyber threats in real time using **PySpark MLlib**, **FastAPI**, **Kafka**, and live threat intelligence APIs.
 
